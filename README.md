@@ -38,6 +38,8 @@ example, on Debian 8, you may also need to install the package `gcc`.
 
 A low-level package required is `inotify-tools` (for most Linux distributes).
 
+For RedHat-based RPM-based distributions (RHEL, Fedora, Centos, etc), you will also need the following package: `redhat-rpm-config`.
+
 It is suggested that you install the latest version of `pip3` and `setuptools`:
 ```bash
 # Download the latest pip package from source
